@@ -1,0 +1,32 @@
+h1 {
+    color:blueviolet;
+}
+
+h2 {
+    color: chartreuse;
+}
+
+p {
+    color: brown;
+}
+
+.hari {
+    color: blue;
+}
+
+.normal {
+    color: orangered;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+
+    width: 70%;
+
+    padding: 10px;
+
+    text-align: justify;
+
+    margin: 30px;
+
+
+}

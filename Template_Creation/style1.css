@@ -1,0 +1,42 @@
+.navbar {
+    color: orangered;
+    border: red solid;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar a {
+    color: orangered;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+
+.hero {
+    border: red solid;
+    color: rgb(103, 8, 228);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    background-size: cover;
+}
+
+header {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.projects img {
+    width: 100%;
+    border: red solid ;
+}
